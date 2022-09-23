@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+	  <head>
+	   <meta charset="UTF-8"> 
+	   <title>milk-shakspeare</title> 
+	   <link rel="stylesheet"href="style.css">
+
+	 </head> 
+	 
+	<body>
+	   <h1 style="text align:center">milk-shakspeare</h1>
+
+	   <p style ><strong>localiza-se na avenida Getúlio Vargas, número 12, no centro de Irati</strong>,além de milk-shake temos uma livraria. Pense pelo lado positivo você está lendo um livro e fica com sede, logo ao lado você encontra milk-shakes deliciosos</p>
+
+	   <p style="font-size: 20px; text-align:center"><strong>nossa missão é:</strong><em>"proporcionar uma leitura mais produtiva e saborosa"</em></p>
+
+	   <p style="text-align: center">oferecemos milk-shakes de diferentes sabores, também livros de diversas categorias</p>
+
+	    <p><strong>Venha nos visitar!</strong></p> 
+	  </body> 
+</html>
